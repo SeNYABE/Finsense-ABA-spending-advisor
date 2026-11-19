@@ -1,0 +1,22 @@
+# Your data: real names, amounts and card details
+data/
+*.csv
+
+# Trained models and outputs
+models/
+*.pkl
+*.joblib
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
